@@ -6,7 +6,7 @@
 
 **Student:**
 
-* Your Student number - First Name - Last Name - Student email
+* 1057573 - Man - Xu - maxu@student.unimelb.edu.au
 
 Replace the lines above with your correct details.
 
